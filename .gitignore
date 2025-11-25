@@ -1,0 +1,44 @@
+# STM32CubeIDE default ignores
+
+# Build folders
+*/Debug/
+*/Release/
+*/build/
+*.o
+*.d
+*.elf
+*.map
+
+# Eclipse/STM32CubeIDE settings
+.settings/
+.metadata/
+.loadpath
+.cproject
+.project
+
+# Automatically generated files
+MX/
+Core/Inc/stm32*.h
+Core/Src/system_stm32*.c
+Drivers/CMSIS/Device/ST/STM32*/Include/system_stm32*.h
+
+# Logs / temp
+*.log
+*.tmp
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# Object and binary files
+*.a
+*.bin
+*.hex
+
+# Ignore vscode if used
+.vscode/
+
+# Ignore personal OS files
+Thumbs.db
+.DS_Store

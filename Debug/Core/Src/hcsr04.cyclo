@@ -1,0 +1,4 @@
+../Core/Src/hcsr04.c:26:13:HCSR04_DelayUs_Approx	2
+../Core/Src/hcsr04.c:36:6:HCSR04_Init	1
+../Core/Src/hcsr04.c:52:22:HCSR04_Measure	3
+../Core/Src/hcsr04.c:98:6:HAL_TIM_IC_CaptureCallback	5

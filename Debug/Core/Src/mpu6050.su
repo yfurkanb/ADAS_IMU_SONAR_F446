@@ -1,0 +1,5 @@
+../Core/Src/mpu6050.c:18:26:mpu6050_write_reg	32	static
+../Core/Src/mpu6050.c:31:26:mpu6050_read_regs	40	static
+../Core/Src/mpu6050.c:45:19:MPU6050_Init	24	static
+../Core/Src/mpu6050.c:87:19:MPU6050_ReadRaw	32	static
+../Core/Src/mpu6050.c:111:19:MPU6050_ReadProcessed	96	static
